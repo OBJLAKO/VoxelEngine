@@ -1,2 +1,11 @@
+## Core .NET ignore
 bin/
 obj/
+*.user
+*.suo
+*.cache
+*.pidb
+*.log
+*.vs/
+*.idea/
+*.DotSettings.user
